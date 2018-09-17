@@ -2,7 +2,7 @@
 scripts relating to compphon - both assignments for the NYU graduate course (LING-GA 1230) and otherwise
 
 ## italian_broad_transcription.py
-Assignment for LING-GA 1230. Performs a broad transcription of Italian text to IPA. The alternations that are handled are documented in the comments of the script. I used regexs to catch the different environments and rules, and re.sub() to replace the IPA symbols (in unicode). Honestly, there are still some issues (like word-initial s being realized as [z]), and I may get back to fixing it, may not ¯\_(ツ)_/¯. 
+Assignment for LING-GA 1230. Performs a broad transcription of Italian text to IPA. The alternations that are handled are documented in the comments of the script. I used regexs to catch the different environments and rules, and re.sub() to replace the IPA symbols (in unicode). Honestly, there are still issues with some of the rules (like word-initial s being realized as [z]), and it's definitely not an exhaustive transcription. I may get back to fixing it, may not ¯\_(ツ)_/¯. 
 
 #### To run:
 * Save file locally
