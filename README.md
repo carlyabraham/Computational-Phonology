@@ -13,4 +13,4 @@ NOTE: This script requires Python 3.0 or higher.
 python stressot-makeinput.py
 ```
 * You will be prompted to give the file name of the Italian .txt file. Just type the file name (WITHOUT ".txt" at the end) and press "Enter."
-* The transcribed text will be in that directory as <filename>_ipa.txt
+* The transcribed text will be in that directory as (filename)_ipa.txt
